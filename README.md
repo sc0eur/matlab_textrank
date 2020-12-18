@@ -1,2 +1,3 @@
 # matlab_textrank
-TextRank in MATLAB
+
+В папке examples содержатся графики и pdf.
